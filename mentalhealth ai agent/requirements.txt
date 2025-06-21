@@ -1,0 +1,12 @@
+streamlit
+speech_recognition
+transformers 
+langchain_google_genai 
+langgraph
+typing 
+langchain_core
+langgraph.graph.message 
+twilio.rest
+tempfile
+os
+datetime 
